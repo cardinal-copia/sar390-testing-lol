@@ -1,0 +1,22 @@
+/* * is the universal selector, which selects everything. */
+* {
+
+}
+/* type selector - matches any element with this name. */
+type {
+
+}
+/* id selector - selects the html element with this ID using # */
+/* <p id="ID"> */
+#ID {
+
+}
+/* class attribute - selects the html element with this class using . */
+/* <p class="className"> */
+.className {
+    
+}
+/* child selector - selects an item that is a child of something else */
+p > a {
+    color:crimson
+}
